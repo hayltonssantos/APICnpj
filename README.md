@@ -1,4 +1,5 @@
-# O ValidadorCNPJ, desenvolvido por Haylton Santos, é um projeto que unifica Back-End, Front-End e uma API em Python. Sua funcionalidade principal é receber uma lista de CNPJs, realizar a busca através de uma API e retornar os dados para um arquivo CSV. Em caso de erros, uma planilha adicional é gerada, destacando os CNPJs com contagem de completos e erros no display correspondente.
+# ValidadorCNPJ: Projeto de Integração Back, Front e API em Python
+O ValidadorCNPJ, desenvolvido por Haylton Santos, é um projeto que unifica Back-End, Front-End e uma API em Python. Sua funcionalidade principal é receber uma lista de CNPJs, realizar a busca através de uma API e retornar os dados para um arquivo CSV. Em caso de erros, uma planilha adicional é gerada, destacando os CNPJs com contagem de completos e erros no display correspondente.
 
 Principais Características:
 
